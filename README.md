@@ -1,5 +1,8 @@
-### Hi there 👋
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is China Bea
+=================================================================================================================================
+
+An aspiring college student with a passion for development, eagerly embracing the journey of learning and mastering programming. 🚀
 <!--
 **yurfavchi/yurfavchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
