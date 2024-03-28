@@ -1,7 +1,7 @@
 
 ### Hi there!👋
 
-I'm China Bea, an aspiring student with a passion for development, eagerly embracing the journey of learning and mastering programming. 🚀
+I'm China Bea, deeply passionate about development, enthusiastically embracing the journey of learning and mastering programming. 🚀
 <!--
 **yurfavchi/yurfavchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
